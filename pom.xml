@@ -36,8 +36,12 @@
       <muleVersion>mule-version</muleVersion>
       <username>girivar</username>
       <password>Girivar@20rd</password>
-      <applicationName>cloudhub-application-name</applicationName>
-      <environment>anypoint-environment</environment>
+      <uri>https://anypoint.mulesoft.com</uri>
+      <applicationName>sample234</applicationName>
+      <environment>Sandbox</environment>
+      <!--<region>eu-west-1</region>-->
+<workers>1</workers>
+<workerType>Micro</workerType>
       <properties>
         <key>value</key>
       </properties>
