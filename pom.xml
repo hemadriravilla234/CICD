@@ -39,7 +39,7 @@
       <uri>https://anypoint.mulesoft.com</uri>
       <applicationName>sample234</applicationName>
       <environment>Sandbox</environment>
-      <!--<region>eu-west-1</region>-->
+      <region>us-east-2</region>
 <workers>1</workers>
 <workerType>Micro</workerType>
       <properties>
